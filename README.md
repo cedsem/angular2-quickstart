@@ -1,2 +1,2 @@
 # angular2-quickstart
-Super-simple Angular 2 application in TypeScript
+Super-simple Angular 2 application in TypeScript.
